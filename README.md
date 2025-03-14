@@ -12,7 +12,6 @@
 <div align="center">
   <a href="https://github.com/maycon363">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon363&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maycon363&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon363&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
