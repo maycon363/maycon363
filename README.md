@@ -1,66 +1,67 @@
-<h1 align="center">🚀 Oi, eu sou o Maycon Borges!</h1>
+<h1 align="center">Olá! 👋 Eu sou o Maycon</h1>
 
 <p align="center">
-  🎯 Desenvolvedor apaixonado por tecnologia e inovação.<br>
-  🔹 Buscando sempre aprender e aprimorar minhas habilidades.<br>
-  💡 Criando soluções criativas e eficientes para desafios do dia a dia.
+  🚀 Desenvolvedor Front-End Júnior | Apaixonado por tecnologia, interfaces modernas e experiências digitais de impacto.
 </p>
 
 ---
 
-## 📊 **Estatísticas do GitHub**
-<div align="center">
-  <a href="https://github.com/maycon363">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon363&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon363&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+## 🧠 Sobre mim
+
+🎓 Formado em TI, com foco atual em desenvolvimento Front-End.  
+💡 Gosto de transformar ideias em experiências visuais usando React.js, TypeScript e tecnologias modernas.  
+🧩 Curioso por natureza, sempre buscando aprender, melhorar e colaborar.  
+🎯 Em busca de oportunidades para crescer como dev e contribuir com projetos reais.
 
 ---
 
-## 🚀 **Habilidades & Tecnologias**
-### **💻 Linguagens & Frameworks**
-<div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+## 💼 Tecnologias que utilizo
 
-### **🛠️ Ferramentas & Banco de Dados**
-<div align="center">
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-### **📂 Banco de Dados**
-<div align="center">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</div>
-
----
-
-## 🌍 **Onde me encontrar**
-<p align="center">
-  <a href="https://www.instagram.com/mmayconb_p/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:mayconborgesgato717@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maycon-borges-4a6022338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### **🔥 Contribuindo & Aprendendo Sempre!**  
-_"A tecnologia move o mundo, e eu estou sempre pronto para aprender e inovar!"_ 🚀
+## 🧪 Projetos em destaque
+
+### 🚢 [Projeto Naval Remake](https://github.com/maycon363/navalremake)
+Recriação moderna e responsiva do clássico jogo Batalha Naval, utilizando React.js e Styled Components.
+
+🔗 Trello com o processo e atualizações:  
+https://trello.com/b/3bMxVzgE/projeto-navalremake
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon363&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon363&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🎓 Certificação
+
+🎖️ **Formação Front-End - Udemy**  
+[📜 Ver certificado](https://www.udemy.com/certificate/UC-147c574e-b26f-47bf-b855-0e91ce794f3e/)
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
+- 📂 [Repositórios no GitHub](https://github.com/maycon363?tab=repositories)
+
+---
+
+📌 **Buscando minha primeira oportunidade como Desenvolvedor Front-End Júnior. Vamos conversar?**  
