@@ -62,8 +62,8 @@ Aplicação para busca e exibição de filmes, séries e atores com integração
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon363&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon363&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
 
 ---
@@ -76,7 +76,7 @@ Aplicação para busca e exibição de filmes, séries e atores com integração
 
 ## 🏆 Troféus
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maycon363&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=maycon363&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
