@@ -76,7 +76,7 @@ Aplicação para busca e exibição de filmes, séries e atores com integração
 
 ## 🏆 Troféus
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=maycon363&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="./profile/trophy.svg"/>
 </div>
 
 ---
