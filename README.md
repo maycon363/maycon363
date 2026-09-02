@@ -86,8 +86,6 @@ Aplicação para busca e exibição de filmes, séries e atores com integração
   <img src="https://raw.githubusercontent.com/maycon363/maycon363/output/github-contribution-grid-snake.svg"/>
 </div>
 
-> ⚠️ A animação da cobrinha acima precisa de um GitHub Action configurado no seu repositório de perfil (posso te mandar o passo a passo se quiser ativar).
-
 ---
 
 ## 📫 Como me encontrar
