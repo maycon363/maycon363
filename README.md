@@ -60,10 +60,16 @@ Aplicação para busca e exibição de filmes, séries e atores com integração
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Foco atual
+- 🔭 Trabalhando em projetos fullstack com **Python + Supabase**
+- 🧊 Explorando **Three.js**, modelos 3D/VRM e sincronização labial (visemas)
+- 📚 Sempre estudando algo novo, de front-end a IA aplicada
+
+---
+
+## 🌍 GitWorld — minha cidade de commits
 <div align="center">
-  <img height="180em" src="./profile/stats.svg"/>
-  <img height="180em" src="./profile/top-langs.svg"/>
+  <img src="https://raw.githubusercontent.com/maycon363/maycon363/main/dist/gitworld.svg"/>
 </div>
 
 ---
@@ -71,13 +77,6 @@ Aplicação para busca e exibição de filmes, séries e atores com integração
 ## 🎓 Certificação
 🎖️ **Formação Front-End - Udemy**
 [📜 Ver certificado](https://www.udemy.com/certificate/UC-147c574e-b26f-47bf-b855-0e91ce794f3e/)
-
----
-
-## 🏆 Troféus
-<div align="center">
-  <img src="./profile/trophy.svg"/>
-</div>
 
 ---
 
